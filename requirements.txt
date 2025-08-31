@@ -2,6 +2,4 @@ streamlit==1.37.1
 scikit-learn==1.5.2
 numpy==1.26.4
 pandas==2.2.2
-nltk==3.9.1
-regex==2024.11.6
-unicodedata2==15.1.0
+
