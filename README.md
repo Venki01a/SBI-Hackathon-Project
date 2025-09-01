@@ -80,7 +80,7 @@ To make the solution more powerful for **campaign detection**, we plan to add:
 
 ---
 
-## 👥 Team CyberGuardians
+## 👥 Team Cyber Rakshak
 - Venkatesh Garg (Team Lead)
 - Anuradha Singh
 - Dipankar Rao Jeurkar
